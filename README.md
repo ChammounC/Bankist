@@ -4,7 +4,7 @@
 # 💸 Banskist
 
 <h1 align="center">
-    <img src="github/main.JPG"/>
+    <img src="SS.jpeg"/>
 </h1>
 
 # Important
