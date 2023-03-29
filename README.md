@@ -19,9 +19,7 @@ Password : 2222
 ---
 
 
-<!-- 
-:key: Take a look  https://chammoun.github.io/Bankist 
--->
+:key: Take a look --> https://chammounc.github.io/Bankist/
 
 
 ## :rocket: Technologies used:
