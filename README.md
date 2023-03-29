@@ -29,8 +29,6 @@ Password : 2222
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
 </p>
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
 ---
 
 ## ⭐ Features
@@ -44,7 +42,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ## About
 
-this project was developed in The Complete JavaScript Course 2021: From Zero to Expert! couse 
+This project was developed in The Complete JavaScript Course 2021: From Zero to Expert! course 
 https://www.udemy.com/course/the-complete-javascript-course/
 
 Created by **Jonas Schmedtmann** <br>
