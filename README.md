@@ -4,7 +4,7 @@
 # 💸 Banskist
 
 <h1 align="center">
-    <img src="SS.jpeg"/>
+    <img src="https://ik.imagekit.io/7o9gvco7xa/bankist/SS.jpeg?updatedAt=1685557489082"/>
 </h1>
 
 # Important
